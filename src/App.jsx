@@ -1,5 +1,6 @@
 import React from "react"
 import './App.css'
+import { Client } from 'appwrite';
 
 
 import { Navigate, Outlet } from "react-router-dom"
